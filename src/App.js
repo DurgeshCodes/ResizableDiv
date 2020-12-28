@@ -1,9 +1,9 @@
 import React from "react";
-import Resizablediv from "./components/resizablediv/Resizablediv";
+import ResizeDiv from "./components/resizablediv/ResizeDiv";
 function App() {
   return (
     <div className="App">
-      <Resizablediv></Resizablediv>
+      <ResizeDiv></ResizeDiv>
     </div>
   );
 }
